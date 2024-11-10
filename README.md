@@ -11,7 +11,7 @@ A empresa "FakeShop" está em um processo de modernização de suas aplicações
  * Faça um fork do repositório original e clone o novo repositório da aplicação "Conversão de Distâncias" no GitHub: (https://github.com/KubeDev/conversao-distancia).
  * Crie um Dockerfile que atenda aos requisitos do projeto.
 
-# Criação e teste co Contêiner:
+# Criação e teste do Contêiner:
 
 * Gere uma imagem Docker a partir do Dockerfile criado.
 * Execute um contêiner a partir da imagem para garantir que a aplicação esteja acessível na porta 5000.
