@@ -16,3 +16,4 @@ A empresa "FakeShop" está em um processo de modernização de suas aplicações
 * Gere uma imagem Docker a partir do Dockerfile criado.
 * Execute um contêiner a partir da imagem para garantir que a aplicação esteja acessível na porta 5000.
 * Realize testes básicos na aplicação para verificar a funcionalidade de conversão de métricas.
+link da imagem do docker: https://hub.docker.com/repository/docker/devirosana/conversao-distancia/general
